@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B5836699-A5D3-1A0F-742D-6BFAF387F949}") = "EventAggregator", "Assembly-CSharp.csproj", "{0AE193D6-5B3B-E2D7-EA3C-65A47276EF9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE193D6-5B3B-E2D7-EA3C-65A47276EF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE193D6-5B3B-E2D7-EA3C-65A47276EF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE193D6-5B3B-E2D7-EA3C-65A47276EF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE193D6-5B3B-E2D7-EA3C-65A47276EF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
